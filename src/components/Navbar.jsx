@@ -6,7 +6,7 @@ export default class Navbar extends Component {
             <div>
                 <nav className="navbar navbar-expand-lg">
                     <div className="container-fluid justify-content-center">
-                        <a className="navbar-brand" href="/app">Relevel &nbsp; Sound  &nbsp; Cloud</a>
+                        <a className="navbar-brand" href="/app">Music&nbsp; App</a>
                     </div>
                 </nav>
                 <hr />
